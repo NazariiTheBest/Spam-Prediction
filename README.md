@@ -70,3 +70,11 @@ As we have created a spam prediction model, it's important to classify all impor
 
 Now, let's imagine a situation where our model incorrectly predicts an important email as spam (False Negative, FN). This would make our user very angry. In this situation, the most important metric is Recall     (Sensitivity) for the Not Spam class.
 ```
+
+
+## Also predict letters, which isn't seen in the dataset
+
+![image](https://github.com/user-attachments/assets/a15896ff-d1aa-43f1-9c14-4b98fff7206b)
+
+
+Correctly predicted 3/3 letters either Spam or Not Spam
